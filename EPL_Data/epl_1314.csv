@@ -1,0 +1,381 @@
+season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Referee,HF,AF,HY,AY,HR,AR
+13_season,Arsenal,Aston Villa,1,3,A,A Taylor,15,18,4,5,1,0
+13_season,Liverpool,Stoke,1,0,H,M Atkinson,11,11,1,1,0,0
+13_season,Norwich,Everton,2,2,D,M Oliver,13,10,2,0,0,0
+13_season,Sunderland,Fulham,0,1,A,N Swarbrick,14,14,0,3,0,0
+13_season,Swansea,Man United,1,4,A,P Dowd,13,10,1,3,0,0
+13_season,West Brom,Southampton,0,1,A,K Friend,14,24,4,0,0,0
+13_season,West Ham,Cardiff,2,0,H,H Webb,10,7,0,1,0,0
+13_season,Chelsea,Hull,2,0,H,J Moss,7,16,0,1,0,0
+13_season,Crystal Palace,Tottenham,0,1,A,M Clattenburg,6,9,1,0,0,0
+13_season,Man City,Newcastle,4,0,H,A Marriner,9,7,2,3,0,1
+13_season,Chelsea,Aston Villa,2,1,H,K Friend,12,13,1,4,0,0
+13_season,Aston Villa,Liverpool,0,1,A,M Clattenburg,9,8,3,3,0,0
+13_season,Everton,West Brom,0,0,D,R East,14,15,1,1,0,0
+13_season,Fulham,Arsenal,1,3,A,H Webb,10,8,2,2,0,0
+13_season,Hull,Norwich,1,0,H,M Jones,14,19,1,1,1,0
+13_season,Newcastle,West Ham,0,0,D,P Dowd,12,14,0,1,0,0
+13_season,Southampton,Sunderland,1,1,D,L Mason,12,13,2,2,0,0
+13_season,Stoke,Crystal Palace,2,1,H,A Marriner,13,6,3,0,0,0
+13_season,Cardiff,Man City,3,2,H,L Probert,2,9,0,0,0,0
+13_season,Tottenham,Swansea,1,0,H,N Swarbrick,10,15,1,4,0,0
+13_season,Man United,Chelsea,0,0,D,M Atkinson,9,9,0,2,0,0
+13_season,Cardiff,Everton,0,0,D,A Taylor,11,9,1,1,0,0
+13_season,Crystal Palace,Sunderland,3,1,H,L Probert,6,6,1,0,0,1
+13_season,Man City,Hull,2,0,H,P Dowd,15,14,2,3,0,0
+13_season,Newcastle,Fulham,1,0,H,C Foy,13,9,2,2,0,0
+13_season,Norwich,Southampton,1,0,H,H Webb,11,15,0,0,0,0
+13_season,West Ham,Stoke,0,1,A,J Moss,10,12,2,1,0,0
+13_season,Arsenal,Tottenham,1,0,H,M Oliver,15,14,2,2,0,0
+13_season,Liverpool,Man United,1,0,H,A Marriner,15,15,2,4,0,0
+13_season,West Brom,Swansea,0,2,A,M Dean,10,14,4,3,0,0
+13_season,Aston Villa,Newcastle,1,2,A,M Dean,9,11,1,4,0,0
+13_season,Everton,Chelsea,1,0,H,H Webb,10,12,0,4,0,0
+13_season,Fulham,West Brom,1,1,D,L Probert,9,12,0,1,0,0
+13_season,Hull,Cardiff,1,1,D,R Madley,8,8,1,2,0,0
+13_season,Man United,Crystal Palace,2,0,H,J Moss,8,11,1,2,0,1
+13_season,Stoke,Man City,0,0,D,M Clattenburg,13,11,1,1,0,0
+13_season,Sunderland,Arsenal,1,3,A,M Atkinson,12,10,1,2,0,0
+13_season,Tottenham,Norwich,2,0,H,L Mason,2,12,1,3,0,0
+13_season,Southampton,West Ham,0,0,D,A Marriner,12,10,1,3,0,0
+13_season,Swansea,Liverpool,2,2,D,M Oliver,7,10,2,3,0,0
+13_season,Chelsea,Fulham,2,0,H,A Marriner,11,9,0,0,0,0
+13_season,Liverpool,Southampton,0,1,A,N Swarbrick,6,9,0,1,0,0
+13_season,Newcastle,Hull,2,3,A,M Atkinson,11,8,1,1,0,0
+13_season,Norwich,Aston Villa,0,1,A,C Foy,15,10,1,0,0,0
+13_season,West Brom,Sunderland,3,0,H,P Dowd,9,10,0,2,0,0
+13_season,West Ham,Everton,2,3,A,L Mason,16,12,2,1,1,0
+13_season,Arsenal,Stoke,3,1,H,M Dean,8,15,0,2,0,0
+13_season,Cardiff,Tottenham,0,1,A,M Clattenburg,5,7,1,4,0,0
+13_season,Crystal Palace,Swansea,0,2,A,K Friend,13,9,2,2,0,0
+13_season,Man City,Man United,4,1,H,H Webb,8,12,1,2,0,0
+13_season,Aston Villa,Man City,3,2,H,M Jones,13,9,1,1,0,0
+13_season,Fulham,Cardiff,1,2,A,C Pawson,14,13,1,1,0,0
+13_season,Hull,West Ham,1,0,H,K Friend,11,12,1,2,0,0
+13_season,Man United,West Brom,1,2,A,M Oliver,10,14,3,2,0,0
+13_season,Southampton,Crystal Palace,2,0,H,M Atkinson,11,12,1,2,0,0
+13_season,Swansea,Arsenal,1,2,A,M Clattenburg,5,11,3,2,0,0
+13_season,Tottenham,Chelsea,1,1,D,M Dean,14,14,5,1,0,1
+13_season,Stoke,Norwich,0,1,A,A Taylor,14,12,2,1,0,0
+13_season,Sunderland,Liverpool,1,3,A,H Webb,8,10,2,1,0,0
+13_season,Everton,Newcastle,3,2,H,P Dowd,5,15,3,1,0,0
+13_season,Cardiff,Newcastle,1,2,A,K Friend,11,8,1,0,0,0
+13_season,Fulham,Stoke,1,0,H,R East,11,13,3,2,0,0
+13_season,Hull,Aston Villa,0,0,D,M Clattenburg,7,11,2,1,0,0
+13_season,Liverpool,Crystal Palace,3,1,H,A Taylor,11,6,2,1,0,0
+13_season,Man City,Everton,3,1,H,J Moss,15,10,5,4,0,0
+13_season,Sunderland,Man United,1,2,A,C Foy,15,13,2,4,0,0
+13_season,Norwich,Chelsea,1,3,A,N Swarbrick,12,9,1,1,0,0
+13_season,Southampton,Swansea,2,0,H,M Dean,13,8,3,1,0,0
+13_season,Tottenham,West Ham,0,3,A,L Probert,5,9,0,0,0,0
+13_season,West Brom,Arsenal,1,1,D,L Mason,6,11,1,2,0,0
+13_season,Arsenal,Norwich,4,1,H,L Probert,8,7,0,0,0,0
+13_season,Chelsea,Cardiff,4,1,H,A Taylor,12,5,1,2,0,0
+13_season,Everton,Hull,2,1,H,N Swarbrick,7,17,3,1,0,0
+13_season,Man United,Southampton,1,1,D,M Jones,10,19,2,3,0,0
+13_season,Newcastle,Liverpool,2,2,D,A Marriner,8,10,2,3,1,0
+13_season,Stoke,West Brom,0,0,D,H Webb,12,10,1,0,0,0
+13_season,Swansea,Sunderland,4,0,H,C Pawson,12,13,1,2,0,0
+13_season,West Ham,Man City,1,3,A,M Oliver,7,12,1,2,0,0
+13_season,Aston Villa,Tottenham,0,2,A,P Dowd,13,12,3,4,0,0
+13_season,Crystal Palace,Fulham,1,4,A,L Mason,10,13,0,1,0,0
+13_season,Aston Villa,Everton,0,2,A,A Taylor,14,8,0,2,0,0
+13_season,Crystal Palace,Arsenal,0,2,A,C Foy,12,8,0,0,0,1
+13_season,Liverpool,West Brom,4,1,H,J Moss,14,11,0,2,0,0
+13_season,Man United,Stoke,3,2,H,L Mason,8,18,2,6,0,0
+13_season,Norwich,Cardiff,0,0,D,M Jones,8,10,1,1,0,0
+13_season,Southampton,Fulham,2,0,H,A Marriner,12,8,0,2,0,0
+13_season,Chelsea,Man City,2,1,H,H Webb,11,15,2,3,0,0
+13_season,Sunderland,Newcastle,2,1,H,L Probert,13,14,1,1,0,0
+13_season,Swansea,West Ham,0,0,D,P Dowd,12,14,1,3,0,0
+13_season,Tottenham,Hull,1,0,H,M Oliver,13,10,3,3,0,0
+13_season,Arsenal,Liverpool,2,0,H,M Atkinson,11,7,2,1,0,0
+13_season,Fulham,Man United,1,3,A,L Probert,6,12,2,1,0,0
+13_season,Hull,Sunderland,1,0,H,A Marriner,17,11,2,0,0,2
+13_season,Man City,Norwich,7,0,H,P Dowd,6,9,1,1,0,0
+13_season,Newcastle,Chelsea,2,0,H,L Mason,13,11,2,2,0,0
+13_season,Stoke,Southampton,1,1,D,C Foy,13,13,3,1,0,0
+13_season,West Brom,Crystal Palace,2,0,H,N Swarbrick,11,9,0,1,0,0
+13_season,West Ham,Aston Villa,0,0,D,H Webb,8,15,0,2,0,0
+13_season,Cardiff,Swansea,1,0,H,M Dean,11,7,1,1,0,1
+13_season,Everton,Tottenham,0,0,D,K Friend,11,9,4,1,0,0
+13_season,Aston Villa,Cardiff,2,0,H,M Atkinson,10,3,1,1,0,0
+13_season,Chelsea,West Brom,2,2,D,L Probert,11,15,3,7,0,0
+13_season,Crystal Palace,Everton,0,0,D,C Pawson,16,8,1,0,0,0
+13_season,Liverpool,Fulham,4,0,H,M Jones,13,9,0,1,0,0
+13_season,Norwich,West Ham,3,1,H,J Moss,12,11,1,1,0,0
+13_season,Southampton,Hull,4,1,H,H Webb,10,15,1,2,0,0
+13_season,Man United,Arsenal,1,0,H,M Oliver,12,11,2,3,0,0
+13_season,Sunderland,Man City,1,0,H,M Dean,6,13,0,1,0,0
+13_season,Swansea,Stoke,3,3,D,R Madley,12,15,5,3,0,0
+13_season,Tottenham,Newcastle,0,1,A,C Foy,5,15,1,2,0,0
+13_season,Arsenal,Southampton,2,0,H,M Clattenburg,10,14,0,3,0,0
+13_season,Everton,Liverpool,3,3,D,P Dowd,16,15,4,3,0,0
+13_season,Fulham,Swansea,1,2,A,A Marriner,11,9,3,1,0,0
+13_season,Hull,Crystal Palace,0,1,A,A Taylor,8,11,2,1,0,1
+13_season,Newcastle,Norwich,2,1,H,M Dean,8,7,0,1,0,0
+13_season,Stoke,Sunderland,2,0,H,K Friend,11,5,2,1,0,1
+13_season,West Ham,Chelsea,0,3,A,C Foy,12,10,0,0,0,0
+13_season,Cardiff,Man United,2,2,D,N Swarbrick,15,14,4,2,0,0
+13_season,Man City,Tottenham,6,0,H,M Atkinson,7,11,1,3,0,0
+13_season,West Brom,Aston Villa,2,2,D,M Oliver,9,14,1,2,0,0
+13_season,Aston Villa,Sunderland,0,0,D,N Swarbrick,14,12,2,1,0,0
+13_season,Cardiff,Arsenal,0,3,A,L Mason,6,8,0,3,0,0
+13_season,Everton,Stoke,4,0,H,M Jones,9,16,0,3,0,0
+13_season,Newcastle,West Brom,2,1,H,P Dowd,15,15,1,2,0,0
+13_season,Norwich,Crystal Palace,1,0,H,C Foy,12,14,1,2,0,0
+13_season,West Ham,Fulham,3,0,H,M Atkinson,11,8,3,2,0,0
+13_season,Chelsea,Southampton,3,1,H,M Oliver,15,14,1,4,0,0
+13_season,Hull,Liverpool,3,1,H,H Webb,10,16,2,0,0,0
+13_season,Man City,Swansea,3,0,H,M Clattenburg,7,8,1,0,0,0
+13_season,Tottenham,Man United,2,2,D,M Dean,9,15,1,3,0,0
+13_season,Crystal Palace,West Ham,1,0,H,L Mason,10,9,1,2,0,0
+13_season,Arsenal,Hull,2,0,H,A Marriner,9,6,0,0,0,0
+13_season,Fulham,Tottenham,1,2,A,M Clattenburg,7,16,2,1,0,0
+13_season,Liverpool,Norwich,5,1,H,A Taylor,10,6,3,1,0,0
+13_season,Man United,Everton,0,1,A,M Atkinson,12,12,2,0,0,0
+13_season,Southampton,Aston Villa,2,3,A,J Moss,9,13,3,2,0,0
+13_season,Stoke,Cardiff,0,0,D,M Oliver,11,12,2,2,0,0
+13_season,Sunderland,Chelsea,3,4,A,P Dowd,15,14,4,3,0,0
+13_season,Swansea,Newcastle,3,0,H,H Webb,4,8,0,2,0,0
+13_season,West Brom,Man City,2,3,A,C Foy,8,10,1,1,0,0
+13_season,Crystal Palace,Cardiff,2,0,H,M Jones,9,12,0,0,0,0
+13_season,Liverpool,West Ham,4,1,H,M Oliver,9,12,0,3,0,1
+13_season,Man United,Newcastle,0,1,A,A Marriner,11,18,0,2,0,0
+13_season,Southampton,Man City,1,1,D,A Taylor,6,9,0,2,0,0
+13_season,Stoke,Chelsea,3,2,H,J Moss,14,8,4,1,0,0
+13_season,Sunderland,Tottenham,1,2,A,L Mason,14,9,2,0,0,0
+13_season,West Brom,Norwich,0,2,A,M Clattenburg,10,6,1,3,0,0
+13_season,Arsenal,Everton,1,1,D,H Webb,13,11,0,4,0,0
+13_season,Fulham,Aston Villa,2,0,H,M Dean,12,13,0,2,0,0
+13_season,Swansea,Hull,1,1,D,M Atkinson,8,7,3,3,0,0
+13_season,Cardiff,West Brom,1,0,H,H Webb,16,12,2,1,0,0
+13_season,Chelsea,Crystal Palace,2,1,H,M Clattenburg,13,7,2,1,0,0
+13_season,Everton,Fulham,4,1,H,A Taylor,10,7,1,2,0,0
+13_season,Hull,Stoke,0,0,D,M Dean,11,13,1,0,0,0
+13_season,Man City,Arsenal,6,3,H,M Atkinson,12,6,2,1,0,0
+13_season,Newcastle,Southampton,1,1,D,M Jones,10,16,1,2,0,0
+13_season,West Ham,Sunderland,0,0,D,A Marriner,11,5,1,0,0,0
+13_season,Aston Villa,Man United,0,3,A,C Foy,15,8,4,2,0,0
+13_season,Norwich,Swansea,1,1,D,M Oliver,12,11,0,3,0,0
+13_season,Tottenham,Liverpool,0,5,A,J Moss,17,15,3,0,1,0
+13_season,Crystal Palace,Newcastle,0,3,A,N Swarbrick,11,14,1,2,0,0
+13_season,Fulham,Man City,2,4,A,K Friend,7,15,1,1,0,0
+13_season,Liverpool,Cardiff,3,1,H,L Probert,11,13,2,0,0,0
+13_season,Man United,West Ham,3,1,H,M Jones,7,16,1,4,0,0
+13_season,Stoke,Aston Villa,2,1,H,C Pawson,13,17,1,5,0,0
+13_season,Sunderland,Norwich,0,0,D,M Atkinson,13,10,2,1,1,0
+13_season,West Brom,Hull,1,1,D,J Moss,8,15,2,1,0,0
+13_season,Southampton,Tottenham,2,3,A,C Foy,10,18,1,1,0,0
+13_season,Swansea,Everton,1,2,A,L Mason,11,10,1,0,0,0
+13_season,Arsenal,Chelsea,0,0,D,M Dean,7,11,2,1,0,0
+13_season,Aston Villa,Crystal Palace,0,1,A,H Webb,11,8,2,2,0,0
+13_season,Cardiff,Southampton,0,3,A,A Marriner,11,13,1,2,0,0
+13_season,Chelsea,Swansea,1,0,H,M Jones,14,9,1,0,0,0
+13_season,Everton,Sunderland,0,1,A,L Probert,11,7,1,0,1,0
+13_season,Hull,Man United,2,3,A,M Oliver,12,14,2,2,0,1
+13_season,Man City,Liverpool,2,1,H,L Mason,10,9,1,3,0,0
+13_season,Newcastle,Stoke,5,1,H,M Atkinson,10,8,1,1,0,2
+13_season,Norwich,Fulham,1,2,A,J Moss,14,10,3,0,0,0
+13_season,Tottenham,West Brom,1,1,D,A Taylor,8,12,3,2,0,0
+13_season,West Ham,Arsenal,1,3,A,P Dowd,11,6,1,1,0,0
+13_season,Aston Villa,Swansea,1,1,D,R East,13,9,3,2,0,0
+13_season,Cardiff,Sunderland,2,2,D,C Foy,14,10,3,2,0,0
+13_season,Hull,Fulham,6,0,H,R Madley,11,9,0,0,0,0
+13_season,Man City,Crystal Palace,1,0,H,A Marriner,12,7,1,1,0,0
+13_season,Norwich,Man United,0,1,A,P Dowd,11,10,4,3,0,0
+13_season,West Ham,West Brom,3,3,D,M Dean,10,13,3,2,0,0
+13_season,Chelsea,Liverpool,2,1,H,H Webb,17,17,4,1,0,0
+13_season,Everton,Southampton,2,1,H,M Clattenburg,9,14,2,4,0,0
+13_season,Newcastle,Arsenal,0,1,A,L Probert,10,8,0,3,0,0
+13_season,Tottenham,Stoke,3,0,H,K Friend,6,14,2,2,0,0
+13_season,Arsenal,Cardiff,2,0,H,J Moss,6,11,1,2,0,0
+13_season,Crystal Palace,Norwich,1,1,D,M Dean,12,10,2,1,0,1
+13_season,Fulham,West Ham,2,1,H,M Clattenburg,6,5,2,1,0,1
+13_season,Liverpool,Hull,2,0,H,C Pawson,15,15,1,2,0,0
+13_season,Man United,Tottenham,1,2,A,H Webb,7,7,2,1,0,0
+13_season,Southampton,Chelsea,0,3,A,M Atkinson,13,10,4,1,0,0
+13_season,Stoke,Everton,1,1,D,A Marriner,16,11,4,1,0,0
+13_season,Sunderland,Aston Villa,0,1,A,M Jones,8,11,4,3,0,0
+13_season,Swansea,Man City,2,3,A,P Dowd,5,10,2,5,0,0
+13_season,West Brom,Newcastle,1,0,H,L Mason,7,15,0,0,0,1
+13_season,Cardiff,West Ham,0,2,A,L Mason,7,16,1,3,0,1
+13_season,Everton,Norwich,2,0,H,K Friend,7,14,1,2,0,0
+13_season,Fulham,Sunderland,1,4,A,M Dean,15,13,3,3,0,0
+13_season,Hull,Chelsea,0,2,A,M Clattenburg,12,7,2,1,0,0
+13_season,Man United,Swansea,2,0,H,C Foy,9,10,0,2,0,0
+13_season,Southampton,West Brom,1,0,H,H Webb,11,17,1,2,0,0
+13_season,Tottenham,Crystal Palace,2,0,H,M Oliver,12,12,1,2,0,0
+13_season,Newcastle,Man City,0,2,A,M Jones,18,15,4,2,0,0
+13_season,Stoke,Liverpool,3,5,A,A Taylor,10,8,1,1,0,0
+13_season,Aston Villa,Arsenal,1,2,A,N Swarbrick,12,9,2,2,0,0
+13_season,Arsenal,Fulham,2,0,H,L Probert,5,7,0,0,0,0
+13_season,Crystal Palace,Stoke,1,0,H,M Clattenburg,9,13,0,2,0,0
+13_season,Liverpool,Aston Villa,2,2,D,J Moss,14,18,1,4,0,0
+13_season,Man City,Cardiff,4,2,H,N Swarbrick,6,5,2,0,0,0
+13_season,Norwich,Hull,1,0,H,H Webb,8,16,1,2,0,1
+13_season,Sunderland,Southampton,2,2,D,C Foy,8,8,2,0,0,0
+13_season,West Ham,Newcastle,1,3,A,A Marriner,9,6,0,0,0,0
+13_season,Chelsea,Man United,3,1,H,P Dowd,15,21,1,3,0,1
+13_season,Swansea,Tottenham,1,3,A,M Atkinson,6,9,2,1,0,0
+13_season,West Brom,Everton,1,1,D,M Oliver,16,12,3,2,0,0
+13_season,Crystal Palace,Hull,1,0,H,R East,14,8,4,0,0,1
+13_season,Liverpool,Everton,4,0,H,M Atkinson,11,13,0,3,0,0
+13_season,Man United,Cardiff,2,0,H,C Pawson,9,9,0,1,0,0
+13_season,Norwich,Newcastle,0,0,D,C Foy,13,7,1,1,1,1
+13_season,Southampton,Arsenal,2,2,D,L Mason,11,4,1,1,0,1
+13_season,Swansea,Fulham,2,0,H,M Oliver,14,9,1,1,0,0
+13_season,Aston Villa,West Brom,4,3,H,M Clattenburg,15,10,1,3,0,0
+13_season,Chelsea,West Ham,0,0,D,N Swarbrick,12,11,1,3,0,0
+13_season,Sunderland,Stoke,1,0,H,R Madley,16,15,2,2,0,1
+13_season,Tottenham,Man City,1,5,A,A Marriner,11,10,1,4,1,0
+13_season,Cardiff,Norwich,2,1,H,M Clattenburg,8,9,1,4,0,0
+13_season,Everton,Aston Villa,2,1,H,R Madley,4,18,1,0,0,0
+13_season,Fulham,Southampton,0,3,A,M Jones,10,9,0,3,0,0
+13_season,Hull,Tottenham,1,1,D,A Taylor,13,9,1,1,0,0
+13_season,Newcastle,Sunderland,0,3,A,P Dowd,18,13,2,2,0,0
+13_season,Stoke,Man United,2,1,H,N Swarbrick,18,7,2,2,0,0
+13_season,West Ham,Swansea,2,0,H,H Webb,7,7,1,0,1,0
+13_season,Arsenal,Crystal Palace,2,0,H,J Moss,9,14,1,2,0,0
+13_season,West Brom,Liverpool,1,1,D,K Friend,13,15,4,2,0,0
+13_season,Man City,Chelsea,0,1,A,M Dean,11,13,3,3,0,0
+13_season,Aston Villa,West Ham,0,2,A,M Dean,9,8,0,2,0,0
+13_season,Chelsea,Newcastle,3,0,H,H Webb,7,10,0,3,0,0
+13_season,Crystal Palace,West Brom,3,1,H,C Foy,13,13,0,3,0,0
+13_season,Liverpool,Arsenal,5,1,H,M Oliver,14,14,1,2,0,0
+13_season,Norwich,Man City,0,0,D,J Moss,7,6,2,1,0,0
+13_season,Southampton,Stoke,2,2,D,C Pawson,7,14,0,4,0,0
+13_season,Sunderland,Hull,0,2,A,M Jones,12,16,1,3,1,0
+13_season,Swansea,Cardiff,3,0,H,A Marriner,7,8,1,1,0,0
+13_season,Man United,Fulham,2,2,D,K Friend,3,6,0,0,0,0
+13_season,Tottenham,Everton,1,0,H,M Clattenburg,9,13,1,0,0,0
+13_season,Cardiff,Aston Villa,0,0,D,C Foy,5,9,0,0,0,0
+13_season,Hull,Southampton,0,1,A,M Atkinson,6,8,0,3,0,0
+13_season,West Brom,Chelsea,1,1,D,A Taylor,9,13,3,4,0,0
+13_season,West Ham,Norwich,2,0,H,M Oliver,12,16,1,3,0,0
+13_season,Arsenal,Man United,0,0,D,M Clattenburg,10,14,1,2,0,0
+13_season,Fulham,Liverpool,2,3,A,P Dowd,7,9,4,3,0,0
+13_season,Newcastle,Tottenham,0,4,A,N Swarbrick,6,11,0,0,0,0
+13_season,Stoke,Swansea,1,1,D,J Moss,11,12,2,2,0,0
+13_season,Arsenal,Sunderland,4,1,H,A Marriner,10,11,0,1,0,0
+13_season,Cardiff,Hull,0,4,A,H Webb,4,11,1,1,0,0
+13_season,Chelsea,Everton,1,0,H,L Probert,15,12,1,2,0,0
+13_season,Crystal Palace,Man United,0,2,A,M Oliver,12,10,0,2,0,0
+13_season,Man City,Stoke,1,0,H,C Foy,16,13,3,1,0,0
+13_season,West Brom,Fulham,1,1,D,M Dean,13,15,3,3,0,0
+13_season,West Ham,Southampton,3,1,H,M Clattenburg,10,8,0,1,0,0
+13_season,Liverpool,Swansea,4,3,H,M Jones,9,11,1,0,0,0
+13_season,Newcastle,Aston Villa,1,0,H,M Atkinson,12,10,2,2,0,0
+13_season,Norwich,Tottenham,1,0,H,C Pawson,8,15,1,3,0,0
+13_season,Everton,West Ham,1,0,H,J Moss,9,8,1,1,0,0
+13_season,Fulham,Chelsea,1,3,A,M Clattenburg,14,13,2,1,0,0
+13_season,Hull,Newcastle,1,4,A,K Friend,13,10,3,2,0,0
+13_season,Southampton,Liverpool,0,3,A,L Probert,10,6,1,2,0,0
+13_season,Stoke,Arsenal,1,0,H,M Jones,13,11,3,1,0,0
+13_season,Aston Villa,Norwich,4,1,H,A Taylor,12,10,0,3,0,0
+13_season,Swansea,Crystal Palace,1,1,D,M Dean,8,11,1,4,1,0
+13_season,Tottenham,Cardiff,1,0,H,P Dowd,11,12,1,3,0,0
+13_season,Cardiff,Fulham,3,1,H,M Atkinson,9,12,1,0,0,0
+13_season,Chelsea,Tottenham,4,0,H,M Oliver,11,18,2,3,0,1
+13_season,Crystal Palace,Southampton,0,1,A,H Webb,14,18,1,5,0,0
+13_season,Norwich,Stoke,1,1,D,A Marriner,9,12,0,2,0,1
+13_season,West Brom,Man United,0,3,A,J Moss,11,10,1,2,0,0
+13_season,Aston Villa,Chelsea,1,0,H,C Foy,14,8,4,0,0,2
+13_season,Everton,Cardiff,2,1,H,R East,10,10,1,3,0,0
+13_season,Fulham,Newcastle,1,0,H,H Webb,11,6,1,0,0,0
+13_season,Hull,Man City,0,2,A,L Mason,9,14,2,2,0,1
+13_season,Southampton,Norwich,4,2,H,K Friend,11,17,1,2,0,0
+13_season,Stoke,West Ham,3,1,H,C Pawson,13,13,1,1,0,0
+13_season,Sunderland,Crystal Palace,0,0,D,N Swarbrick,16,14,4,4,0,0
+13_season,Swansea,West Brom,1,2,A,M Atkinson,7,13,1,3,0,0
+13_season,Man United,Liverpool,0,3,A,M Clattenburg,13,12,1,4,1,0
+13_season,Tottenham,Arsenal,0,1,A,M Dean,18,11,5,3,0,0
+13_season,Cardiff,Liverpool,3,6,A,N Swarbrick,14,11,2,3,0,0
+13_season,Chelsea,Arsenal,6,0,H,A Marriner,14,8,0,1,0,1
+13_season,Everton,Swansea,3,2,H,M Oliver,9,6,0,0,0,0
+13_season,Hull,West Brom,2,0,H,C Foy,18,13,2,0,0,0
+13_season,Man City,Fulham,5,0,H,J Moss,8,15,0,3,0,1
+13_season,Newcastle,Crystal Palace,1,0,H,L Probert,4,8,0,1,0,0
+13_season,Norwich,Sunderland,2,0,H,P Dowd,16,20,2,4,0,1
+13_season,West Ham,Man United,0,2,A,L Mason,8,8,2,1,0,0
+13_season,Aston Villa,Stoke,1,4,A,M Clattenburg,16,10,5,1,0,0
+13_season,Tottenham,Southampton,3,2,H,A Taylor,9,9,1,2,0,0
+13_season,Arsenal,Swansea,2,2,D,L Probert,11,12,0,1,0,0
+13_season,Man United,Man City,0,3,A,M Oliver,12,8,2,2,0,0
+13_season,Newcastle,Everton,0,3,A,L Mason,8,10,0,1,0,0
+13_season,Liverpool,Sunderland,2,1,H,K Friend,5,15,0,2,0,0
+13_season,West Ham,Hull,2,1,H,M Dean,12,9,0,1,0,1
+13_season,Arsenal,Man City,1,1,D,M Dean,8,11,1,4,0,0
+13_season,Crystal Palace,Chelsea,1,0,H,L Mason,10,4,4,1,0,0
+13_season,Man United,Aston Villa,4,1,H,M Atkinson,10,16,2,4,0,0
+13_season,Southampton,Newcastle,4,0,H,A Marriner,5,6,0,1,0,0
+13_season,Stoke,Hull,1,0,H,N Swarbrick,9,9,2,0,0,0
+13_season,Swansea,Norwich,3,0,H,J Moss,15,9,1,2,0,0
+13_season,West Brom,Cardiff,3,3,D,M Oliver,12,13,1,1,0,0
+13_season,Fulham,Everton,1,3,A,A Taylor,7,4,1,2,0,0
+13_season,Liverpool,Tottenham,4,0,H,P Dowd,9,9,0,2,0,0
+13_season,Sunderland,West Ham,1,2,A,H Webb,11,14,2,4,0,0
+13_season,Aston Villa,Fulham,1,2,A,M Oliver,10,13,3,2,0,0
+13_season,Cardiff,Crystal Palace,0,3,A,P Dowd,5,13,2,4,0,0
+13_season,Chelsea,Stoke,3,0,H,L Probert,8,18,0,0,0,0
+13_season,Hull,Swansea,1,0,H,H Webb,6,18,0,2,0,0
+13_season,Man City,Southampton,4,1,H,C Foy,9,15,3,0,0,0
+13_season,Newcastle,Man United,0,4,A,K Friend,16,6,1,0,0,0
+13_season,Norwich,West Brom,0,1,A,M Clattenburg,10,11,1,0,0,0
+13_season,Everton,Arsenal,3,0,H,M Atkinson,6,5,1,2,0,0
+13_season,West Ham,Liverpool,1,2,A,A Taylor,10,9,4,0,0,0
+13_season,Tottenham,Sunderland,5,1,H,L Mason,12,8,0,2,0,0
+13_season,Crystal Palace,Aston Villa,1,0,H,H Webb,7,12,0,2,0,0
+13_season,Fulham,Norwich,1,0,H,M Dean,10,12,1,3,0,0
+13_season,Southampton,Cardiff,0,1,A,J Moss,9,7,0,0,0,0
+13_season,Stoke,Newcastle,1,0,H,M Jones,12,11,1,1,0,0
+13_season,Sunderland,Everton,0,1,A,L Probert,17,15,3,1,0,0
+13_season,West Brom,Tottenham,3,3,D,N Swarbrick,11,8,4,2,0,0
+13_season,Liverpool,Man City,3,2,H,M Clattenburg,7,9,1,3,1,0
+13_season,Swansea,Chelsea,0,1,A,P Dowd,8,13,0,2,1,0
+13_season,Arsenal,West Ham,3,1,H,K Friend,14,12,2,2,0,0
+13_season,Everton,Crystal Palace,2,3,A,A Marriner,6,10,1,2,0,0
+13_season,Man City,Sunderland,2,2,D,M Atkinson,14,10,1,2,0,0
+13_season,Aston Villa,Southampton,0,0,D,L Mason,11,11,0,2,0,0
+13_season,Cardiff,Stoke,1,1,D,H Webb,6,12,2,3,0,0
+13_season,Chelsea,Sunderland,1,2,A,M Dean,11,14,1,2,0,0
+13_season,Newcastle,Swansea,1,2,A,C Foy,6,9,2,0,0,0
+13_season,Tottenham,Fulham,3,1,H,L Probert,8,11,0,1,0,0
+13_season,West Ham,Crystal Palace,0,1,A,M Atkinson,7,16,1,1,0,0
+13_season,Everton,Man United,2,0,H,M Clattenburg,9,8,2,2,0,0
+13_season,Hull,Arsenal,0,3,A,J Moss,10,7,1,1,0,0
+13_season,Norwich,Liverpool,2,3,A,A Marriner,16,10,3,2,0,0
+13_season,Man City,West Brom,3,1,H,P Dowd,9,7,1,1,0,0
+13_season,Fulham,Hull,2,2,D,L Mason,8,7,1,3,0,0
+13_season,Man United,Norwich,4,0,H,L Probert,13,9,1,1,0,0
+13_season,Southampton,Everton,2,0,H,M Oliver,13,12,0,2,0,0
+13_season,Stoke,Tottenham,0,1,A,A Marriner,11,6,1,2,1,0
+13_season,Swansea,Aston Villa,4,1,H,M Clattenburg,9,12,1,3,0,0
+13_season,West Brom,West Ham,1,0,H,M Dean,14,8,0,1,0,0
+13_season,Crystal Palace,Man City,0,2,A,H Webb,9,10,3,1,0,0
+13_season,Liverpool,Chelsea,0,2,A,M Atkinson,9,7,0,4,0,0
+13_season,Sunderland,Cardiff,4,0,H,P Dowd,10,11,5,3,0,1
+13_season,Arsenal,Newcastle,3,0,H,N Swarbrick,9,8,3,2,0,0
+13_season,Aston Villa,Hull,3,1,H,M Dean,14,9,0,0,0,0
+13_season,Everton,Man City,2,3,A,L Probert,3,9,0,3,0,0
+13_season,Man United,Sunderland,0,1,A,H Webb,11,12,2,1,0,0
+13_season,Newcastle,Cardiff,3,0,H,M Atkinson,9,6,1,0,0,0
+13_season,Stoke,Fulham,4,1,H,C Foy,9,13,0,2,0,0
+13_season,Swansea,Southampton,0,1,A,A Taylor,11,5,1,1,0,0
+13_season,West Ham,Tottenham,2,0,H,P Dowd,10,16,0,4,0,1
+13_season,Arsenal,West Brom,1,0,H,M Jones,9,6,2,2,0,0
+13_season,Chelsea,Norwich,0,0,D,N Swarbrick,9,17,1,3,0,0
+13_season,Crystal Palace,Liverpool,3,3,D,M Clattenburg,7,12,2,3,0,0
+13_season,Man United,Hull,3,1,H,C Pawson,13,9,1,1,0,0
+13_season,Man City,Aston Villa,4,0,H,M Oliver,8,9,1,2,0,0
+13_season,Sunderland,West Brom,2,0,H,L Mason,14,12,0,0,0,0
+13_season,Cardiff,Chelsea,1,2,A,M Oliver,7,9,1,2,0,0
+13_season,Fulham,Crystal Palace,2,2,D,K Friend,11,15,3,1,0,0
+13_season,Hull,Everton,0,2,A,H Webb,8,8,0,1,0,0
+13_season,Liverpool,Newcastle,2,1,H,P Dowd,8,16,1,3,0,2
+13_season,Man City,West Ham,2,0,H,M Atkinson,7,9,2,2,0,0
+13_season,Norwich,Arsenal,0,2,A,L Mason,6,5,1,0,0,0
+13_season,Southampton,Man United,1,1,D,M Dean,16,5,3,2,0,0
+13_season,Sunderland,Swansea,1,3,A,C Foy,14,15,2,3,0,0
+13_season,Tottenham,Aston Villa,3,0,H,J Moss,11,11,1,0,0,0
+13_season,West Brom,Stoke,1,2,A,L Probert,4,7,0,0,0,0
